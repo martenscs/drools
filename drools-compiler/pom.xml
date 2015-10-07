@@ -274,4 +274,5 @@
       </plugin>
     </plugins>
   </build>
+  <version>6.2.0.Final-RCP</version>
 </project>
